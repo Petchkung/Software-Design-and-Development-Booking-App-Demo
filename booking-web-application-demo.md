@@ -526,7 +526,8 @@ app.listen(port, () => {
 - Headers: Authorization: Bearer {{token}}
 - กำหนด initial value กับ current value
 - กดปุ่ม Save เพื่อบันทึกข้อมูล
-  ![Get all booking](images/postman-getall.png)
+  ![image](https://github.com/user-attachments/assets/4187cc85-f61d-48d3-9bee-4ecc46a28867)
+
 
 ### บันทึกผลลัพธ์การ Get ข้อมูล
 
