@@ -526,12 +526,13 @@ app.listen(port, () => {
 - Headers: Authorization: Bearer {{token}}
 - กำหนด initial value กับ current value
 - กดปุ่ม Save เพื่อบันทึกข้อมูล
-  ![image](https://github.com/user-attachments/assets/4187cc85-f61d-48d3-9bee-4ecc46a28867)
+
 
 
 ### บันทึกผลลัพธ์การ Get ข้อมูล
 
-![รูปผลลัพธ์การ Get ข้อมูล](images path/image.png)
+![image](https://github.com/user-attachments/assets/415fabff-c00d-4531-8baa-3e60b2a5b542)
+
 
 ### กรณีผลลัพธ์แจ้ง "error":"Token ไม่ถูกต้องหรือหมดอายุ" ให้ทำการ Login ใหม่ แล้วคัดลอก Token ที่ได้เพื่อเปลี่ยนค่าใน variable token
 
