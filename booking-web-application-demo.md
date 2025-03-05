@@ -1833,7 +1833,8 @@ export default App;
 4) ทำการ Login ด้วย user: admin  password: admin123  หากระบบทำงานถูกต้อง จะแสดงรายการจองห้องพัก
 
 ### บันทึกผลการทดลอง 
-![รูปรายการจองห้องพัก](images-path/image.png)
+![image](https://github.com/user-attachments/assets/0cc9e159-4cc6-400c-a36d-8b2d705ec21b)
+
    
    
 
@@ -1962,7 +1963,8 @@ export default BookingEdit;
 5) แก้ไขข้อมูลการจองและบันทึกรูปผลการทดลอง
    
 ### บันทึกผลการทดลอง
-![ผลการแก้ไขข้อมูลการจอง](./image-path/image.png)
+![image](https://github.com/user-attachments/assets/8c7816e7-77e7-49aa-8542-a89f6d31bf8d)
+
 
 ### 3.2.8 AdminDashboard Component
 
@@ -2024,6 +2026,7 @@ export default AdminDashboard;
 
 3) บันทึกผลการทดลอง เมื่อกดปุ่ม "สำหรับผู้ดูแลระบบ"
    ### บันทึกผลการทดลอง
-![ผลการแก้ไขข้อมูลการจอง](image-path/image.png)
+![image](https://github.com/user-attachments/assets/535551ea-bcfd-442e-b6d2-cab0d63d4022)
+
 
 
